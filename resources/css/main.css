@@ -111,7 +111,7 @@ h1{
   }
 }
 
-@media only screen and (max-width:560px) {
+@media only screen and (max-width:470px) {
   .container{
     max-width: 100%;
   }
@@ -172,7 +172,7 @@ h1{
   width: 3.5rem;
 }
 
-@media only screen and (max-width:560px) {
+@media only screen and (max-width:470px) {
   .icon-section{
     display: flex;
     flex-direction: column;
@@ -218,7 +218,7 @@ h1{
   margin-bottom: 5rem;
 }
 
-@media only screen and (max-width:570px) {
+@media only screen and (max-width:470px) {
 
   .supporting .container{
     flex-direction: column;
@@ -256,7 +256,7 @@ footer img{
   padding-left: 4rem;
 }
 
-@media only screen and (max-width:570px) {
+@media only screen and (max-width:470px) {
   footer span{
     display: none;
   }
