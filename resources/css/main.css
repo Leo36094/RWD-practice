@@ -94,7 +94,7 @@ h1{
 
 @media only screen and (max-width:1024px) {
   .container{
-    width: 100%;
+    max-width: 100%;
   }
   header{
     height:22rem;
@@ -113,7 +113,7 @@ h1{
 
 @media only screen and (max-width:560px) {
   .container{
-    width: 100%;
+    max-width: 100%;
   }
   .menu .nav{
     display: none;
@@ -227,7 +227,6 @@ h1{
   .supporting-section{
     width: 100%;
     margin: 0 auto;
-    b
   }
   .supporting-section h4{
     text-align: center;
